@@ -1,0 +1,27 @@
+.heading
+{
+    background-color: rgb(222, 245, 12);
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    color: palevioletred;
+    box-shadow: 10px 10px 20px red;
+}
+
+.note
+{
+    font-size: 15px;
+    color: violet;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: black;
+    font-size: 15;
+    bottom: 0;
+    width: 100%;
+    background-color: tomato;
+    line-height: 3;
+    text-align: center;
+}
